@@ -1,0 +1,483 @@
+﻿/* YEAR DEPENDENT */
+
+/* 2009 */
+
+.class2009 div#top {
+	background: #ff515a url(2009/img/top_bground.png);
+}
+
+.class2009 div#top h1 {
+	background: #ff515a url(2009/img/top_title.png) 0 0 no-repeat;
+}
+
+.class2009 div#RSS, div#RSS a {
+	background: #a23337 url(2009/img/RSS_hover.png) 0 0 no-repeat;
+}
+
+.class2009 div#RSS a {
+	background: #a23337 url(2009/img/RSS.png) 0 0 no-repeat;
+}
+
+.class2009 div.intro h2 { background: #FEFCF4 url(2009/img/work-title.png) 0 0 no-repeat; }
+
+.class2009 a {
+	color: #e92f38;
+	text-decoration: none;
+}
+
+.class2009 a:hover {
+	border-bottom: 1px solid #e92f38;
+}
+
+/* 2008 */
+
+.class2008 div#top {
+	background: #527d24 url(2008/img/top_bground.png);
+}
+
+.class2008 div#top h1 {
+	background: #527d24 url(2008/img/top_title.png) 0 0 no-repeat;
+}
+
+.class2008 div#RSS, div#RSS a {
+	background: #354e16 url(2008/img/RSS_hover.png) 0 0 no-repeat;
+}
+
+.class2008 div#RSS a {
+	background: #354e16 url(2008/img/RSS.png) 0 0 no-repeat;
+}
+
+.class2008 div.intro h2 { background: #FEFCF4 url(2008/img/work-title.png) 0 0 no-repeat; }
+
+.class2008 a {
+	color: #527d24;
+	text-decoration: none;
+}
+
+.class2008 a:hover {
+	border-bottom: 1px solid #97b078;
+}
+
+/* 2007 */
+
+.class2007 div#top {
+	background: #770029 url(2007/img/top_bground.png);
+}
+
+.class2007 div#top h1 {
+	background: #770029 url(2007/img/top_title.png) 0 0 no-repeat;
+}
+
+.class2007 div#RSS, div#RSS a {
+	background: #4c0019 url(2007/img/RSS_hover.png) 0 0 no-repeat;
+}
+
+.class2007 div#RSS a {
+	background: #4c0019 url(2007/img/RSS.png) 0 0 no-repeat;
+}
+
+.class2007 div.intro h2 { background: #FEFCF4 url(2007/img/work-title.png) 0 0 no-repeat; }
+
+.class2007 a {
+	color: #d40049;
+	text-decoration: none;
+}
+
+.class2007 a:hover {
+	border-bottom: 1px solid #e1618b;
+}
+
+/* 2006 */
+
+.class2006 div#top {
+	background: #481557 url(2006/img/top_bground.png);
+}
+
+.class2006 div#top h1 {
+	background: #481557 url(2006/img/top_title.png) 0 0 no-repeat;
+}
+
+.class2006 div#RSS, div#RSS a {
+	background: #2e0d35 url(2006/img/RSS_hover.png) 0 0 no-repeat;
+}
+
+.class2006 div#RSS a {
+	background: #2e0d35 url(2006/img/RSS.png) 0 0 no-repeat;
+}
+
+.class2006 div.intro h2 { background: #FEFCF4 url(2006/img/work-title.png) 0 0 no-repeat; }
+
+.class2006 a {
+	color: #82269d;
+	text-decoration: none;
+}
+
+.class2006 a:hover {
+	border-bottom: 1px solid #8b4f9d;
+}
+
+
+/* 2005 */
+
+.class2005 div#top {
+	background: #dd7329 url(2005/img/top_bground.png);
+}
+
+.class2005 div#top h1 {
+	background: #dd7329 url(2005/img/top_title.png) 0 0 no-repeat;
+}
+
+.class2005 div#RSS, div#RSS a {
+	background: #8c4819 url(2005/img/RSS_hover.png) 0 0 no-repeat;
+}
+
+.class2005 div#RSS a {
+	background: #8c4819 url(2005/img/RSS.png) 0 0 no-repeat;
+}
+
+.class2005 div.intro h2 { background: #FEFCF4 url(2005/img/work-title.png) 0 0 no-repeat; }
+
+.class2005 a {
+	color: #dc6226;
+	text-decoration: none;
+}
+
+.class2005 a:hover {
+	border-bottom: 1px solid #dda37b;
+}
+
+/* 2004 */
+
+.class2004 div#top {
+	background: #cf1565 url(2004/img/top_bground.png);
+}
+
+.class2004 div#top h1 {
+	background: #cf1565 url(2004/img/top_title.png) 0 0 no-repeat;
+}
+
+.class2004 div#RSS, div#RSS a {
+	background: #840d3d url(2004/img/RSS_hover.png) 0 0 no-repeat;
+}
+
+.class2004 div#RSS a {
+	background: #840d3d url(2004/img/RSS.png) 0 0 no-repeat;
+}
+
+.class2004 div.intro h2 { background: #FEFCF4 url(2004/img/work-title.png) 0 0 no-repeat; }
+
+.class2004 a {
+	color: #cf1565;
+	text-decoration: none;
+}
+
+.class2004 a:hover {
+	border-bottom: 1px solid #cf4b84;
+}
+
+/* 2003 */
+
+.class2003 div#top {
+	background: #0079bf url(2003/img/top_bground.png);
+}
+
+.class2003 div#top h1 {
+	background: #0079bf url(2003/img/top_title.png) 0 0 no-repeat;
+}
+
+.class2003 div#RSS, div#RSS a {
+	background: #004c74 url(2003/img/RSS_hover.png) 0 0 no-repeat;
+}
+
+.class2003 div#RSS a {
+	background: #004c74 url(2003/img/RSS.png) 0 0 no-repeat;
+}
+
+.class2003 div.intro h2 { background: #FEFCF4 url(2003/img/work-title.png) 0 0 no-repeat; }
+
+.class2003 a {
+	color: #0079bf;
+	text-decoration: none;
+}
+
+.class2003 a:hover {
+	border-bottom: 1px solid #0079bf;
+}
+
+/* 2002 */
+/*
+.class2002 div#top {
+	background: #cf1565 url(2002/img/top_bground.png);
+}
+
+.class2002 div#top h1 {
+	background: #cf1565 url(2002/img/top_title.png) 0 0 no-repeat;
+}
+
+.class2002 div#RSS, div#RSS a {
+	background: #840d3d url(2002/img/RSS_hover.png) 0 0 no-repeat;
+}
+
+.class2002 div#RSS a {
+	background: #840d3d url(2002/img/RSS.png) 0 0 no-repeat;
+}
+
+.class2002 div.intro h2 { background: #FEFCF4 url(2002/img/work-title.png) 0 0 no-repeat; }
+
+.class2002 a {
+	color: #cf1565;
+	text-decoration: none;
+}
+
+.class2002 a:hover {
+	border-bottom: 1px solid #cf4b84;
+}
+*/
+/* 2001 */
+/*
+.class2001 div#top {
+	background: #cf1565 url(2001/img/top_bground.png);
+}
+
+.class2001 div#top h1 {
+	background: #cf1565 url(2001/img/top_title.png) 0 0 no-repeat;
+}
+
+.class2001 div#RSS, div#RSS a {
+	background: #840d3d url(2001/img/RSS_hover.png) 0 0 no-repeat;
+}
+
+.class2001 div#RSS a {
+	background: #840d3d url(2001/img/RSS.png) 0 0 no-repeat;
+}
+
+.class2001 div.intro h2 { background: #FEFCF4 url(2001/img/work-title.png) 0 0 no-repeat; }
+
+.class2001 a {
+	color: #cf1565;
+	text-decoration: none;
+}
+
+.class2001 a:hover {
+	border-bottom: 1px solid #cf4b84;
+}
+*/
+/* 2000 */
+
+.class2000 div#top {
+	background: #1F426F url(2000/img/top_bground.png);
+}
+
+.class2000 div#top h1 {
+	background: #1F426F url(2000/img/top_title.png) 0 0 no-repeat;
+}
+
+.class2000 div#RSS, div#RSS a {
+	background: #142943 url(2000/img/RSS_hover.png) 0 0 no-repeat;
+}
+
+.class2000 div#RSS a {
+	background: #142943 url(2000/img/RSS.png) 0 0 no-repeat;
+}
+
+.class2000 div.intro h2 { background: #FEFCF4 url(2000/img/work-title.png) 0 0 no-repeat; }
+
+.class2000 a {
+	color: #4C678A;
+	text-decoration: none;
+}
+
+.class2000 a:hover {
+	border-bottom: 1px solid #4C678A;
+}
+
+
+/* LAYOUT & YEAR INDEPENDENT STUFF */
+
+html {
+	background:	#E7E4DD url(img/bottom_bground.png);
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	
+	font-size: 12px;
+	font-family: Arial, sans-serif;
+	line-height: 28px;
+	
+	background: #E7E4DD url(img/bottom_bground.png);
+	
+}
+
+div#top {
+	width: 100%;
+	height: 168px;
+	padding: 0;
+	margin: 0;
+}
+
+div#middle {
+	width: 100%;
+	min-height: 560px;
+	padding: 0;	
+	margin:	0;
+	background: #FEFCF4 url(img/middle_bground.png);
+}
+
+div#bottom {
+	width: 950px;
+	min-height: 280px;
+	padding: 28px 0 56px 0;
+	margin:	0;
+	background: #E7E4DD url(img/bottom_shaddow.png) 0 0 no-repeat;
+}
+
+
+/* TOP */
+
+div#top h1 {
+	width: 942px;
+	height: 168px;
+	padding: 0;
+	margin: 0;
+}
+
+/* RSS feed button */
+
+div#RSS, div#RSS a {
+	display: block;
+	position: absolute;
+	left: 858px;
+	top: 140px;
+	width: 84px;
+	height: 28px;
+	padding: 0;
+	margin: 0;
+}
+
+div#RSS a {
+	left: 0;
+	top: 0;
+	text-decoration: none;
+	border: 0;
+}
+
+div#top a:hover {
+	background: none;	
+}
+
+
+/* MIDDLE */
+
+ul#years {
+	float: left;
+	width: 130px;
+	padding: 38px 0;
+	margin: 0;
+}
+
+ul#years li {
+	list-style: none;
+	padding: 0 28px;
+	margin: 0;
+	color: #d1cec8;
+}
+
+ul#years li.active {
+	color: #000;
+	font-weight: bold;
+}
+
+div#middle h2 {
+	width: 390px;
+	height: 38px;
+	padding: 0;
+	margin: 0;
+}
+
+div.group-specimen h2 { background: #FEFCF4 url(img/group-specimen-title.png) 0 0 no-repeat; }
+
+div#middle div.column {
+	float: left;
+	width: 392px;
+	padding: 0;
+	margin: 28px 0 56px 0;
+}
+
+div#middle div#secondcolumn {
+	margin-left: 28px;
+}
+
+div#middle p, div#middle div.column div {
+	height: 168px;
+	width: 392px;
+	padding: 0;
+	margin: 0;
+	line-height: 26px;
+}
+
+img.preview {
+	width: 392px;
+	height: 84px;
+}
+
+
+
+/* BOTTOM */
+
+div#bottom p {
+	line-height: 26px;
+	color: #585858;
+	padding: 0;
+	margin: 0 28px 1em 130px;
+}
+
+div#bottom p.copyright {
+	color: #585858;
+	padding-top: 1em;
+	border-top: 1px solid #d1cec8;
+}
+
+
+
+/* OTHER MARKUP */
+
+h1 {
+	font-size: 110%;
+	font-weight: bold;
+}
+
+em {
+	font-style:	normal;
+	font-weight: bold;
+}
+
+em.grey {
+	font-style:	normal;
+	font-weight: normal;
+	color: #d1cec8;
+}
+
+img.link {
+	vertical-align: text-bottom;
+	margin: 0 1px;
+}
+
+img.pdf {
+	vertical-align: text-bottom;
+	margin: 0 1px 0 0;
+}
+
+* html img.link, * html img.pdf { /* IE only */
+	padding-top: 6px;
+}
+
+span {
+	display: none;
+}
+
+.clear {
+	clear: both;
+	visibility: hidden;
+}

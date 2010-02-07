@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+	<title>MA Typeface Design at the University of Reading</title>
+	<link>http://www.typefacedesign.org/</link>
+	<atom:link href="http://www.typefacedesign.org/feed.xml" rel="self" type="application/rss+xml" />
+	<description>
+		Work from the MA Typeface Design at the University of Reading
+	</description>    
+	<pubDate>Sat, 17 Oct 2009 11:00:00 GMT</pubDate>
+	<language>en</language>
+	<item>
+		<title>Update to 2009 </title>
+		<description>
+			Eben Sorkin's Arrotino specimen and RoP has been updated/uploaded.
+		</description>
+		<link>http://www.typefacedesign.org/2009/</link>
+		<guid isPermaLink="true">http://www.typefacedesign.org/2009/</guid>
+		<pubDate>Sat, 17 Oct 2009 11:00:00 GMT</pubDate>
+	<item>
+		<title>(In)visible difference</title>
+		<description>
+			The website is now using a new subpixel favicon by Miha (see Typophile thread
+			about subpixel icon design: http://typophile.com/node/60577). Thank you.
+		</description>
+		<link>http://www.typefacedesign.org/</link>
+		<guid isPermaLink="true">http://www.typefacedesign.org/</guid>
+		<pubDate>Thu, 01 Oct 2009 17:00:00 GMT</pubDate>
+	</item>
+ 	<item>
+		<title>Work from the 2009 class is now online</title>
+		<description>
+			Work from the 2009 class is now online
+		</description>
+		<link>http://www.typefacedesign.org/</link>
+		<guid isPermaLink="true">http://www.typefacedesign.org/</guid>
+		<pubDate>Thu, 06 Aug 2009 18:00:00 GMT</pubDate>
+	</item>
+	<item>
+		<title>Updates to 2000–2008 webistes</title>
+		<description>
+			Reflection on Practise essays and links to vendors for published typefaces were added.
+		</description>
+		<link>http://www.typefacedesign.org/2000/</link>
+		<guid isPermaLink="true">http://www.typefacedesign.org/2000/</guid>
+		<pubDate>Thu, 06 Aug 2009 18:00:00 GMT</pubDate>
+	</item>
+	<item>
+		<title>Work from the 2000 and 2003 classes</title>
+		<description>
+			Work of the 2000 and 2003 years is now online.
+		</description>
+		<link>http://www.typefacedesign.org/2003/</link>
+		<guid isPermaLink="true">http://www.typefacedesign.org/2003/</guid>
+		<pubDate>Thu, 06 Aug 2009 18:00:00 GMT</pubDate>
+	</item>
+	<item>
+		<title>Work from the 2008 class is presented in Typo 2008</title>
+		<description>
+			Recently published Typo 35 (www.magtypo.cz) includes a presentation of typefaces by the MATD 2008 graduates on 12 pages.
+			Text by David Březina (with help of students' specimen texts), illustrations by respective designers.
+			See some pictures on flickr: http://www.flickr.com/photos/typoblog/tags/matd2008/
+		</description>
+		<link>http://www.flickr.com/photos/typoblog/tags/matd2008/</link>
+		<guid isPermaLink="true">http://www.typefacedesign.org/2008/#MATD2008inTypo</guid>
+		<pubDate>Mon, 11 May 2009 13:00:00 GMT</pubDate>
+	</item>
+	<item>
+		<title>Work from the 2004 class</title>
+		<description>
+			Work of the 2004 class is now online. Now complete.
+		</description>
+		<link>http://www.typefacedesign.org/2004/</link>
+		<guid isPermaLink="true">http://www.typefacedesign.org/2004/</guid>
+		<pubDate>Sun, 04 Jan 2009 08:00:00 GMT</pubDate>
+	</item>
+	<item>
+		<title>Work from the 2006 class</title>
+		<description>
+			Work of the 2006 class is now online. Now complete.
+		</description>
+		<link>http://www.typefacedesign.org/2006/</link>
+		<guid isPermaLink="true">http://www.typefacedesign.org/2006/</guid>
+		<pubDate>Fri, 09 Jan 2009 21:00:00 GMT</pubDate>
+	</item>
+	<item>
+		<title>Work from the 2005 class</title>
+		<description>
+			Work of the 2005 class is now online.
+		</description>
+		<link>http://www.typefacedesign.org/2005/</link>
+		<guid isPermaLink="true">http://www.typefacedesign.org/2005/</guid>
+		<pubDate>Sat, 11 Oct 2008 12:00:00 GMT</pubDate>
+	</item>
+	<item>
+		<title>Work from the 2007 class</title>
+		<description>
+			Work of the 2007 class is now online.
+		</description>
+		<link>http://www.typefacedesign.org/2007/</link>
+		<guid isPermaLink="true">http://www.typefacedesign.org/2007/</guid>
+		<pubDate>Fri, 03 Oct 2008 16:00:00 GMT</pubDate>
+	</item>
+	<item>
+		<title>Work from the 2008 class</title>
+		<description>
+			Download PDF specimens of the typefaces and contact the designers from the MATD 2008 class.
+		</description>
+		<link>http://www.typefacedesign.org/2008/</link>
+		<guid isPermaLink="true">http://www.typefacedesign.org/2008/</guid>
+		<pubDate>Sun, 07 Sep 2008 12:00:00 GMT</pubDate>
+	</item>
+</channel>
+</rss>

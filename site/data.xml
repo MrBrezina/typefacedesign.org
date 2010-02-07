@@ -1,0 +1,997 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE matd [
+<!ELEMENT matd (title, intro, copyright, class+)>
+<!ELEMENT class (group-specimen, designer+, thanks)>
+<!ELEMENT year   (#PCDATA)>
+<!ELEMENT group-specimen   (specimen, size)>
+<!ELEMENT designer  (name, country, email, web, typeface, preview, specimen, webspecimen, rop)>
+<!ELEMENT name   (#PCDATA)>
+<!ELEMENT country   (#PCDATA)>
+<!ELEMENT email  (#PCDATA)>
+<!ELEMENT web  (#PCDATA)>
+<!ELEMENT typeface  (#PCDATA)>
+<!ELEMENT preview  (#PCDATA)>
+<!ELEMENT specimen  (#PCDATA)>
+<!ELEMENT rop  (#PCDATA)>
+<!ELEMENT thanks  (p+)>
+<!ELEMENT p  (#PCDATA)>
+]>
+
+<!-- missing RoPs: 2007: Vernon, 2008: Yvonne, Melanie, 2009: Dave -->
+
+<matd>
+	
+<title>MA Typeface Design at the University of Reading</title>
+
+<intro>
+Download PDF specimens of the typefaces, Reflection on Practice essays on the development of the typefaces, and contact the designers.
+Read more about the course at the <a href="http://www.reading.ac.uk/typography/">Department of Typography
+and Graphic Communication</a> website.	
+</intro>
+
+<copyright>
+Typeface designs © the respective authors, 2000–2009.<br />
+Website design and production © <a href="http://davi.cz">David Březina</a>, 2007–2009.<br />
+The typeface used in the headline is Ronnia by <a href="http://www.type-together.com/Ronnia">TypeTogether</a>.<br />
+Last update: 6 August 2009 — <a href="http://feeds.feedburner.com/matd/">RSS feed</a>
+</copyright>
+
+
+<class year="2009" ready="1">
+	<!--<group-specimen>
+		<specimen>matd09_group_specimen.pdf</specimen>
+		<size>1.4 MB</size>
+	</group-specimen> -->
+
+    <designer>
+		<name>Amélie Bonet</name>
+		<country>France</country>
+		<email>hello@ameliebonet.com</email>
+		<web>ameliebonet.com</web>
+		<typeface>Polydom</typeface>
+		<preview>AmelieBonet_Polydom.png</preview>
+		<specimen>AmelieBonet_Polydom_specimen.pdf</specimen>
+		<!-- do not share RoP -->
+	</designer>
+
+ 	<designer>
+		<name>Camille Boulouis</name>
+		<country>France</country>
+		<email>camille.boulouis@gmail.com</email>
+		<typeface>Guillotine</typeface>
+		<preview>CamilleBoulouis_Guillotine.png</preview>
+		<specimen>CamilleBoulouis_Guillotine_specimen.pdf</specimen>
+		<rop>CamilleBoulouis_Guillotine_RoP.pdf</rop>
+	</designer>
+
+	<designer>
+		<name>Antonio Cavedoni</name>
+		<country>Italy</country>
+		<email>antonio@cavedoni.org</email>
+		<web>cavedoni.com</web>
+		<typeface>Enquire</typeface>
+		<preview>AntonioCavedoni_Enquire.png</preview>
+		<specimen>AntonioCavedoni_Enquire_specimen.pdf</specimen>
+		<rop>AntonioCavedoni_Enquire_RoP.pdf</rop>
+		<comment>updates coming soon</comment>
+	</designer>
+	
+	<designer>
+		<name>Dave Crossland</name>
+		<country>UK</country>
+		<email>dave@lab6.com</email>
+		<web>abattis.org</web>
+		<typeface>Cantarell</typeface>
+		<preview>DaveCrossland_Cantarell.png</preview>
+		<specimen>DaveCrossland_Cantarell_specimen.pdf</specimen>
+		<vendor name="Abattis">abattis.org/cantarell/</vendor>
+		<!--<rop>DaveCrossland_Cantarell_RoP.pdf</rop> !! -->
+	</designer>
+
+ 	<designer>
+		<name>Crystian Cruz</name>
+		<country>Brazil</country>
+		<email>mail@crystiancruz.com</email>
+		<web>www.crystiancruz.com</web>
+		<typeface>Quartzo</typeface>
+		<preview>CrystianCruz_Quartzo.png</preview>
+		<specimen>CrystianCruz_Quartzo_specimen.pdf</specimen>
+		<rop>CrystianCruz_Quartzo_RoP.pdf</rop>
+	</designer>
+
+ 	<designer>
+		<name>Gro Janarv</name>
+		<country>Sweden</country>
+		<email>gro.janarv@gmail.com</email>
+		<web>grojanarv.se</web>
+		<typeface>Okapi</typeface>
+		<preview>GroJanarv_Okapi.png</preview>
+		<specimen>GroJanarv_Okapi_specimen.pdf</specimen>
+		<rop>GroJanarv_Okapi_RoP.pdf</rop>
+	</designer>
+
+ 	<designer>
+		<name>Lilith Laborey</name>
+		<country>France</country>
+		<email>lilith@lilithlab.net</email>
+		<web>www.lilithlab.net</web>
+		<typeface>Capoeira</typeface>
+		<preview>LilithLaborey_Capoeira.png</preview>
+		<specimen>LilithLaborey_Capoeira_specimen.pdf</specimen>
+		<rop>LilithLaborey_Capoeira_RoP.pdf</rop>
+	</designer>
+
+ 	<designer>
+		<name>Deema Merdad</name>
+		<country>Saudi Arabia</country>
+		<email>deema.merdad@gmail.com</email>
+		<typeface>Squiggly</typeface>
+		<preview>DeemaMerdad_Squiggly.png</preview>
+		<specimen>DeemaMerdad_Squiggly_specimen.pdf</specimen>
+		<rop>DeemaMerdad_Squiggly_RoP.pdf</rop>
+	</designer>
+
+ 	<designer>
+		<name>Julia Petretta (Kaestle)</name>
+		<country>Germany</country>
+		<email>julia.kaestle@gmail.com</email>
+		<web>www.mfgimweb.de</web>
+		<typeface>Creon</typeface>
+		<preview>JuliaKaestle_Creon.png</preview>
+		<specimen>JuliaKaestle_Creon_specimen.pdf</specimen>
+		<rop>JuliaKaestle_Creon_RoP.pdf</rop>
+	</designer>
+
+	<designer>
+		<name>Jonny Pinhorn</name>
+		<country>UK</country>
+		<email>jon@jonpinhorn.com</email>
+		<typeface>Venkat</typeface>
+		<preview>JonnyPinhorn_Venkat.png</preview>
+		<specimen>JonnyPinhorn_Venkat_specimen.pdf</specimen>
+		<rop>JonnyPinhorn_Venkat_RoP.pdf</rop>
+	</designer>
+
+  	<designer>
+		<name>Émilie Rigaud</name>
+		<country>France</country>
+		<email>emilie.rigaud@gmail.com</email>
+		<web>www.emilie-rigaud.com</web>
+		<typeface>Coline</typeface>
+		<preview>EmilieRigaud_Coline.png</preview>
+		<specimen>EmilieRigaud_Coline_specimen.pdf</specimen>
+		<rop>EmilieRigaud_Coline_RoP.pdf</rop>
+	</designer>
+
+	<designer>
+		<name>Anette Schmidt</name>
+		<country>Denmark</country>
+		<email>anette@email.com</email>
+		<typeface>Anglaise</typeface>
+		<preview>AnetteSchmidt_Anglaise.png</preview>
+		<specimen>AnetteSchmidt_Anglaise_specimen.pdf</specimen>
+		<rop>AnetteSchmidt_Anglaise_RoP.pdf</rop>
+	</designer>
+
+ 	<designer>
+		<name>Eben Sorkin</name>
+		<country>US</country>
+		<email>eben@eyebytes.com</email>
+		<web>eyebytes.com</web>
+		<typeface>Arrotino</typeface>
+		<preview>EbenSorkin_Arrotino.png</preview>
+		<specimen>EbenSorkin_Arrotino_specimen.pdf</specimen>
+		<rop>EbenSorkin_Arrotino_RoP.pdf</rop>
+		<comment>coming soon (14 August 2009)</comment>
+	</designer>
+
+ 	<designer>
+		<name>Claus Eggers Sørensen</name>
+		<country>Denmark</country>
+		<email>es@forthehearts.net</email>
+		<web>www.forthehearts.net</web>
+		<typeface>Markant</typeface>
+		<preview>ClausEggersSorensen_Markant.png</preview>
+		<specimen>ClausEggersSorensen_Markant_specimen.pdf</specimen>
+		<webspecimen>www.forthehearts.net</webspecimen>
+		<rop>ClausEggersSorensen_Markant_RoP.pdf</rop>
+	</designer>
+
+	<designer>
+		<name>Gesine Todt</name>
+		<country>Germany</country>
+		<email>hello@gesine-todt.de</email>
+		<web>www.gesine-todt.de</web>
+		<typeface>You are here</typeface>
+		<preview>GesineTodt_YouAreHere.png</preview>
+		<specimen>GesineTodt_YouAreHere_specimen.pdf</specimen>
+		<rop>GesineTodt_YouAreHere_RoP.pdf</rop>
+	</designer>
+
+    	<thanks>	
+    	<p>We’re grateful to a lot of people for helping us all have an extraordinary year.</p>
+
+    	<p>We would all like to thank the tutors and staff of the Department of Typography &amp; Graphic Communication, University of Reading, especially Martin Andrews, Gerry Leonidas, James Mosley, Fiona Ross, Michael Twyman, and Gerard Unger. Cheers to Jo de Baerdemaeker, Erik van Blokland, David Březina, Tobias Frere-Jones, Victor Gaultney, John Hudson, Richard Kegler, Tal Leming, Titus Nemeth, Fred Smeijers, Adam Twardoch, and our dear Type and Media colleagues from KABK.</p>
+
+    	<p>We couldn’t have done it without all our families and friends, either!</p>
+    	</thanks>
+</class>
+
+
+<class year="2008" ready="1">
+	<group-specimen>
+		<specimen>matd08_group_specimen.pdf</specimen>
+		<size>1.4 MB</size>
+	</group-specimen>
+
+	<designer>
+		<name>Andrew Berry</name>
+		<country>Australia</country>
+		<email>type@andrewberry.com.au</email>
+		<web>www.andrewberry.com.au</web>
+		<typeface>Hyde</typeface>
+		<preview>AndrewBerry_Hyde.png</preview>
+		<specimen>AndrewBerry_Hyde_specimen.pdf</specimen>
+		<rop>AndrewBerry_Hyde_RoP.pdf</rop>
+	</designer>
+
+	<designer>
+		<name>Emanuela Conidi</name>
+		<country>Italy</country>
+		<email>manuconidi@gmail.com</email>
+		<typeface>Nabil</typeface>
+		<preview>EmanuelaConidi_Nabil.png</preview>
+		<specimen>EmanuelaConidi_Nabil_specimen.pdf</specimen>
+		<rop>EmanuelaConidi_Nabil_RoP.pdf</rop>
+	</designer>
+
+	<designer>
+		<name>Melanie Duarte</name>
+		<country>USA</country>
+		<email>melanieduarte@mac.com</email>
+		<typeface>Theodore</typeface>
+		<preview>MelanieDuarte_Theodore.png</preview>
+		<specimen>MelanieDuarte_Theodore_specimen.pdf</specimen>
+		<!-- <rop>MelanieDuarte_Theodore_RoP.pdf</rop> !! -->
+	</designer>
+
+	<designer>
+		<name>Joke Gossé</name>
+		<country>Belgium</country>
+		<email>joke.gosse@gmail.com</email>
+		<typeface>Melville</typeface>
+		<preview>JokeGosse_Melville.png</preview>
+		<specimen>JokeGosse_Melville_specimen.pdf</specimen>
+		<rop>JokeGosse_Melville_RoP.pdf</rop>
+	</designer>
+
+	<designer>
+		<name>Michael Hernan</name>
+		<country>UK</country>
+		<email>michaelhernan@mac.com</email>
+		<web>www.fontgroup.com</web>
+		<typeface>Pseudo</typeface>
+		<preview>MichaelHernan_Pseudo.png</preview>
+		<specimen>MichaelHernan_Pseudo_specimen.pdf</specimen>
+		<rop>MichaelHernan_Pseudo_RoP.pdf</rop>
+	</designer>
+
+	<designer>
+		<name>Michael Hochleitner</name>
+		<country>Austria</country>
+		<email>michi@typejockeys.com</email>
+		<web>www.typejockeys.com</web>
+		<typeface>Ingeborg</typeface>
+		<preview>MichaelHochleitner_Ingeborg.png</preview>
+		<specimen>MichaelHochleitner_Ingeborg_specimen.pdf</specimen>
+		<vendor name="Typejockeys">www.typejockeys.com/type/6_Ingeborg</vendor>
+		<rop>MichaelHochleitner_Ingeborg_RoP.pdf</rop>
+	</designer>
+
+	<designer>
+		<name>Paul Hunt</name>
+		<country>USA</country>
+		<web>www.pilcrowtype.com</web>
+		<typeface>Grandia &amp; Gandhara</typeface>
+		<preview>PaulHunt_GrandiaGandhara.png</preview>
+		<specimen>PaulHunt_GrandiaGandhara_specimen.pdf</specimen>
+		<rop>PaulHunt_GrandiaGandhara_RoP.pdf</rop>
+	</designer>
+
+	<designer>
+		<name>Mathieu Réguer</name>
+		<country>France</country>
+		<email>mathieu.reguer@gmail.com</email>
+		<typeface>Cassius &amp; Ali</typeface>
+		<preview>MathieuReguer_CassiusAli.png</preview>
+		<specimen>MathieuReguer_CassiusAli_specimen.pdf</specimen>
+		<rop>MathieuReguer_CassiusAli_RoP.pdf</rop>
+	</designer>
+
+	<designer>
+		<name>Dan Reynolds</name>
+		<country>USA/Germany</country>
+		<email>dan@typeoff.de</email>
+		<web>www.typeoff.de</web>
+		<typeface>Martel/Malabar</typeface>
+		<preview>DanReynolds_Martel.png</preview>
+		<specimen>DanReynolds_Martel_specimen.pdf</specimen>
+		<vendor name="Linotype">http://www.linotype.com/5831/malabar.html</vendor>
+		<rop>DanReynolds_Martel_RoP.pdf</rop>
+	</designer>
+
+	<designer>
+		<name>Yvonne Schüttler</name>
+		<country>Germany</country>
+		<email>ysch@me.com</email>
+		<typeface>Mina</typeface>
+		<preview>YvonneSchuettler_Mina.png</preview>
+		<specimen>YvonneSchuettler_Mina_specimen.pdf</specimen>
+		<!-- <rop>YvonneSchuettler_Mina_RoP.pdf</rop> !! -->
+	</designer>
+
+	<designer>
+		<name>Emma Williams</name>
+		<country>UK</country>
+		<email>em.u.williams@gmail.com</email>
+		<typeface>Milvus</typeface>
+		<preview>EmmaWilliams_Milvus.png</preview>
+		<specimen>EmmaWilliams_Milvus_specimen.pdf</specimen>
+		<rop>EmmaWilliams_Milvus_RoP.pdf</rop>
+	</designer>
+
+	<thanks>	
+	<p>We’re grateful to a lot of people for helping us all have an extraordinary year.</p>
+	
+	<p>Martin Andrews, Jo de Baerdemaeker, Veronika Burian, Rob Banham, Carolyn Davidson, Mary Dyson, Victor Gaultney, Eric Kindel, Gerry Leonidas, Paul Luna, Charlene McGroarty, Hadj Messelles, Tom Milo, Jonathan Hoefler, John Hudson, James Mosley, Linda Reynolds, Daniel Rhatigan, Fiona Ross, José Scaglione, Christian Schwartz, Paul Stiff, Miguel Sousa, Mirjam Somers, Michael Twyman, Gerard Unger, Marjan Unger, Sue Walker, Geoff Wyeth and the entire crew of the Design and Print Unit.</p>
+	
+	<p>We couldn’t have done it without all our families and friends, either!</p>
+	</thanks>
+</class>
+
+<class year="2007" ready="1">
+	<group-specimen>
+		<specimen>matd07_group_specimen.pdf</specimen>
+		<size>2.7 MB</size>
+	</group-specimen>
+		
+	<designer>
+		<name>Vernon Adams</name>
+		<country>UK</country>
+		<email>vern@newtypography.co.uk</email>
+		<web>www.newtypography.co.uk</web>
+		<typeface>Mako</typeface>
+		<preview>VernonAdams_Mako.png</preview>
+		<specimen>VernonAdams_Mako_specimen.pdf</specimen>
+		<!-- <rop>VernonAdams_Mako_RoP.pdf</rop> !! -->
+	</designer>
+
+	<designer>
+		<name>Jenni Ahonen</name>
+		<country>Finland</country>
+		<email>ahonen.jenni@gmail.com</email>
+		<typeface>Ilona</typeface>
+		<preview>JenniAhonen_Ilona.png</preview>
+		<specimen>JenniAhonen_Ilona_specimen.pdf</specimen>
+		<rop>JenniAhonen_Ilona_RoP.pdf</rop>
+	</designer>
+
+	<designer>
+		<name>Tim Ahrens</name>
+		<country>Germany/UK</country>
+		<email>info@justanotherfoundry.com</email>
+		<web>justanotherfoundry.com</web>
+		<typeface>Herb</typeface>
+		<preview>TimAhrens_Herb.png</preview>
+		<webspecimen>justanotherfoundry.com/Herb/</webspecimen>
+		<rop>TimAhrens_Herb_RoP.pdf</rop>
+	</designer>
+
+	<designer>
+		<name>David Březina</name>
+		<country>Czechia</country>
+		<email>brezina@davi.cz</email>
+		<web>davi.cz</web>
+		<typeface>Skolar &amp; Surat</typeface>
+		<preview>DavidBrezina_SkolarSurat.png</preview>
+		<specimen>DavidBrezina_SkolarSurat_specimen.pdf</specimen>
+		<vendor name="TypeTogether">www.type-together.com/Skolar</vendor>
+		<rop>DavidBrezina_SkolarSurat_RoP.pdf</rop>
+	</designer>
+	
+	<designer>
+		<name>Valentin Brustaux</name>
+		<country>Switzerland</country>
+		<email>valentin@regular.li</email>
+		<web>regular.li</web>
+		<typeface>Tiina</typeface>
+		<preview>ValentinBrustaux_Tiina.png</preview>
+		<webspecimen>regular.li</webspecimen>
+		<!-- do not share RoP -->
+	</designer>
+
+	<designer>
+		<name>Gerben Dollen</name>
+		<country>Netherlands</country>
+		<email>info@typemafia.com</email>
+		<web>www.typemafia.com</web>
+		<typeface>Actium</typeface>
+		<preview>GerbenDollen_Actium.png</preview>
+		<specimen>GerbenDollen_Actium_specimen.pdf</specimen>
+		<rop>GerbenDollen_Actium_RoP.pdf</rop>
+	</designer>
+	
+	<designer>
+		<name>Nicole Dotin</name>
+		<country>USA</country>
+		<email>nicole@processtypefoundry.com</email>
+		<web>www.processtypefoundry.com</web>
+		<typeface>Elena</typeface>
+		<preview>NicoleDotin_Elena.png</preview>
+		<specimen>NicoleDotin_Elena_specimen.pdf</specimen>
+		<rop>NicoleDotin_Elena_RoP.pdf</rop>
+	</designer>
+
+	<designer>
+		<name>Christina Economidou</name>
+		<country>Cyprus/UK</country>
+		<email>christina_economidou_8@hotmail.com</email>
+		<typeface>Phoebe</typeface>
+		<preview>ChristinaEconomidou_Phoebe.png</preview>
+		<specimen>ChristinaEconomidou_Phoebe_specimen.pdf</specimen>
+		<rop>ChristinaEconomidou_Phoebe_RoP.pdf</rop>
+	</designer>
+	
+	<designer>
+		<name>Rob Keller</name>
+		<country>USA</country>
+		<email>rob@youshouldliketypetoo.com</email>
+		<web>motaitalic.com</web>
+		<typeface>Vesper</typeface>
+		<preview>RobKeller_Vesper.png</preview>
+		<vendor name="Mota Italic">www.motaitalic.com/fonts/vesper</vendor>
+		<!-- do not share RoP -->
+	</designer>
+	
+	<designer>
+		<name>Nicolien van der Keur</name>
+		<country>Netherlands</country>
+		<email>type@vanderkeur.net</email>
+		<web>www.vanderkeur.net</web>
+		<typeface>Sirba</typeface>
+		<preview>NicolienvanderKeur_Sirba.png</preview>
+		<specimen>NicolienvanderKeur_Sirba_specimen.pdf</specimen>
+		<rop>NicolienvanderKeur_Sirba_RoP.pdf</rop>
+	</designer>
+	
+	<designer>
+		<name>Ian Moore</name>
+		<country>UK</country>
+		<email>made@byfrank.co.uk</email>
+		<web>www.madebyfrank.co.uk</web>
+		<typeface>Broomfield</typeface>
+		<preview>IanMoore_Broomfield.png</preview>
+		<webspecimen>www.madebyfrank.co.uk/tdbooklet.html</webspecimen>
+		<rop>IanMoore_Broomfield_RoP.pdf</rop>
+	</designer>
+	
+	<designer>
+		<name>Daniel Rhatigan</name>
+		<country>USA</country>
+		<email>sparky@ultrasparky.org</email>
+		<web>www.ultrasparky.org</web>
+		<typeface>Gina</typeface>
+		<preview>DanielRhatigan_Gina.png</preview>
+		<specimen>DanielRhatigan_Gina_specimen.pdf</specimen>
+		<rop>DanielRhatigan_Gina_RoP.pdf</rop>
+	</designer>
+
+	<designer>
+		<name>Alice Savoie</name>
+		<country>France</country>
+		<email>alice@frenchtype.com</email>
+		<web>www.frenchtype.com</web>
+		<typeface>Capucine</typeface>
+		<preview>AliceSavoie_Capucine.png</preview>
+		<specimen>AliceSavoie_Capucine_specimen.pdf</specimen>
+		<rop>AliceSavoie_Capucine_RoP.pdf</rop>
+	</designer>
+	
+	<designer>
+		<name>Fernando de Mello Vargas</name>
+		<country>Brazil</country>
+		<email>fermello@fermello.org</email>
+		<web>www.fermello.org</web>
+		<typeface>Frida</typeface>
+		<preview>FernandoMello_Frida.png</preview>
+		<specimen>FernandoMello_Frida_specimen.pdf</specimen>
+		<rop>FernandoMello_Frida_RoP.pdf</rop>
+	</designer>
+	
+	<thanks>	
+	<p>We’re grateful to a lot of people for helping us all have an extraordinary year.</p>
+
+	<p>Martin Andrews, Jo de Baerdemaeker,
+	Rob Banham, Peter Biľak, David Bolton,
+	Ron Carpenter, Carolyn Davidson, Bram
+	de Does, Mary Dyson, Phil Garnham,
+	Victor Gaultney, Nadja Guggi, Eric Kindel,
+	Gerry Leonidas, Paul Luna, Charlene
+	McGroarty, Hadj Messelles, Mitja
+	Miklavčič, Vera Miles, James Mosley, Eric
+	Olson, Thomas Phinney, Ann Pillar, Linda
+	Reynolds, Rich Roat, Nigel Roche, Fiona
+	Ross, Rosemary Sassoon, Fred Smeijers,
+	Jason Smith, Richard Southall, Paul Stiff,
+	František Štorm, Adam Twardoch, Michael
+	Twyman, Gerard Unger, Marjan Unger,
+	Sue Walker, and Mick Stocks and the entire
+	crew of the Design and Print Unit.</p>
+	
+	<p>Our benefactors:
+	The Arts and Humanities Research Council,
+	Fondation Ernest Boninchi, IKEA Stiftung,
+	The Edward Johnston Foundation, The
+	Monotype Foundation, Het Vreedefonds,
+	and VSBfonds Beurs.</p>
+
+	<p>We couldn’t have done it without all our families and friends, either!</p>
+	</thanks>
+		
+</class>
+
+<class year="2006" ready="1">
+	<group-specimen>
+		<specimen>matd06_group_specimen.pdf</specimen>
+		<size>424 KB</size>
+	</group-specimen>
+
+	<designer>
+		<name>Pilar Cano</name>
+		<country>Spain</country>
+		<email>pilar@midoristudio.net</email>
+		<typeface>Edita</typeface>
+		<preview>PilarCano_Edita.png</preview>
+		<specimen>PilarCano_Edita_specimen.pdf</specimen>
+		<vendor name="TypeTogether">www.type-together.com/Edita</vendor>
+		<rop>PilarCano_Edita_RoP.pdf</rop>
+	</designer>
+	
+	<designer>
+		<name>Sara Chapman</name>
+		<country>UK</country>
+		<email>sara@letterg.co.uk</email>
+		<web>www.letterg.co.uk</web>
+		<typeface>Chatsworth</typeface>
+		<preview>SaraChapman_Chatsworth.png</preview>
+		<rop>SaraChapman_Chatsworth_RoP.pdf</rop>
+	</designer>
+	
+	<!-- <designer>
+		<name>Will Hill</name>
+		<country>UK</country>
+		<email></email>
+		<web></web>
+		<typeface></typeface>
+		<preview>WillHill_</preview>
+		<specimen>WillHill_</specimen>
+		<rop>WillHill_RoP.pdf</rop>
+	</designer> !! -->
+	
+	<designer>
+		<name>Jérémie Hornus</name>
+		<country>France</country>
+		<email>jeremie@hornus.com</email>
+		<typeface>Kefa</typeface>
+		<preview>JeremieHornus_Kefa.png</preview>
+		<specimen>JeremieHornus_Kefa_specimen.pdf</specimen>
+		<!-- do not share RoP -->
+	</designer>
+	
+	<designer>
+		<name>Mitja Miklavčič</name>
+		<country>Slovenia</country>
+		<email>miklavcic@gmail.com</email>
+		<typeface>Tisa</typeface>
+		<preview>MitjaMiklavcic_Tisa.png</preview>
+		<vendor name="FontFont">www.fontshop.com/fonts/downloads/fontfont/ff_tisa/</vendor>
+		<!-- do not share RoP -->
+	</designer>
+
+	<designer>
+		<name>Titus Nemeth</name>
+		<country>Austria</country>
+		<email>sehstoerung@sonance.net</email>
+		<web>sehstoerung.sonance.net</web>
+		<typeface>Nassim</typeface>
+		<preview>TitusNemeth_Nassim.png</preview>
+		<specimen>TitusNemeth_Nassim_specimen.pdf</specimen>
+		<vendor name="WinSoft">www.winsoft-international.com/en/store/tasmeem-fonts-nassim.html</vendor>
+		<rop>TitusNemeth_Nassim_RoP.pdf</rop>
+	</designer>
+
+	<designer>
+		<name>Sophia Safaeva</name>
+		<country>Russia</country>
+		<email>sophiasa@rambler.ru</email>
+		<typeface>Novinka</typeface>
+		<preview>SophiaSafaeva_Novinka.png</preview>
+		<specimen>SophiaSafaeva_Novinka_specimen.pdf</specimen>
+		<!-- do not share RoP -->
+	</designer>
+
+	<designer>
+		<name>Juliet Shen</name>
+		<country>USA</country>
+		<email>juliet@shendesign.com</email>
+		<web>www.shendesign.com</web>
+		<typeface>Bullen</typeface>
+		<preview>JulietShen_Bullen.png</preview>
+		<specimen>JulietShen_Bullen_specimen.pdf</specimen>
+		<!-- do not share RoP -->
+	</designer>
+
+	<designer>
+		<name>Sandra Winter</name>
+		<country>Germany</country>
+		<email>info@sandrawinter.com</email>
+		<web>www.sandrawinter.com</web>
+		<typeface>Filia</typeface>
+		<preview>SandraWinter_Filia.png</preview>
+		<specimen>SandraWinter_Filia_specimen.pdf</specimen>
+		<rop>SandraWinter_Filia_RoP.pdf</rop>
+	</designer>
+	
+	<thanks>
+	<p>The MATD 2006 graduates would like to thank the many people who made their sojour at Reading a splendid time,
+	including Gerry Leonidas, Gerard Unger, Fiona Ross, Michael Twyman and the many other lecturers who
+	generously shared their expertise. Cheers!</p>
+	</thanks>
+</class>
+
+<class year="2005" ready="1">
+	<group-specimen>
+		<specimen>matd05_group_specimen.pdf</specimen>
+		<size>832 KB</size>
+	</group-specimen>
+	
+	<designer>
+		<name>Michael Ives</name>
+		<country>UK</country>
+		<email>michael@michaelives.com</email>
+		<web>www.michaelives.com</web>
+		<typeface>Xplor</typeface>
+		<preview>MichaelIves_Xplor.png</preview>
+		<specimen>MichaelIves_Xplor_specimen.pdf</specimen>
+		<!-- do not share RoP -->
+	</designer>
+
+	<designer>
+		<name>Ben Kiel</name>
+		<country>USA</country>
+		<email>ben@benkiel.com</email>
+		<web>www.benkiel.com</web>
+		<typeface>Cimarron</typeface>
+		<preview>BenKiel_Cimarron.png</preview>
+		<specimen>BenKiel_Cimarron_specimen.pdf</specimen>
+		<rop>BenKiel_Cimarron_RoP.pdf</rop>
+	</designer>
+
+	<designer>
+		<name>José Scaglione</name>
+		<country>Argentina</country>
+		<email>jose@type-together.com</email>
+		<web>www.type-together.com</web>
+		<typeface>Athelas</typeface>
+		<preview>JoseScaglione_Athelas.png</preview>
+		<specimen>JoseScaglione_Athelas_specimen.pdf</specimen>
+		<vendor name="TypeTogether">www.type-together.com/Athelas</vendor>
+		<!-- do not share RoP -->
+	</designer>
+
+	<designer>
+		<name>Miguel Sousa</name>
+		<country>Portugal/USA</country>
+		<web>www.adhesiontext.com</web>
+		<typeface>Calouste</typeface>
+		<preview>MiguelSousa_Calouste.png</preview>
+		<specimen>MiguelSousa_Calouste_specimen.pdf</specimen>
+		<rop>MiguelSousa_Calouste_RoP.pdf</rop>
+	</designer>
+
+	<designer>
+		<name>Malou Verlomme</name>
+		<country>France</country>
+		<web>www.malouverlomme.com</web>
+		<typeface>Ficus</typeface>
+		<preview>MalouVerlomme_Ficus.png</preview>
+		<!-- do not share RoP -->
+	</designer>
+
+	<thanks>
+	<p>We would all like to thank the tutors and staff of the Department of Typography &amp; Graphic Communication, University of Reading, especially
+	Martin Andrews, Gerry Leonidas, James Mosley, Fiona Ross, Michael Twyman, and Gerard Unger. Cheers to guest lecturers John Downer, Victor Gaultney, John Hudson, Lawrence Penney, Thomas Phinney, Jean-François Porchez, and Richard Southall. For making us look good in print, thanks to	the D&amp;P Unit. To our department chef, Virginie Will, many thanks.</p>
+	
+	<p>Additionally, Miguel Sousa would like to thank the Serviço de Belas Artes of Fundação Calouste Gulbenkian, Portugal.</p>
+	</thanks>
+</class>
+
+<class year="2004" ready="1">
+	<designer>
+		<name>Jo De Baerdemaeker</name>
+		<country>Belgium/UK</country>
+		<email>jo@typojo.com</email>
+		<web>www.typojo.com</web>
+		<typeface>Lungta</typeface>
+		<preview>JoDeBaerdemaeker_Lungta.png</preview>
+		<specimen>JoDeBaerdemaeker_Lungta_specimen.pdf</specimen>
+	</designer>
+	
+	<designer>
+		<name>David Cabianca</name>
+		<country>Canada</country>
+		<email>cabianca@yorku.ca</email>
+		<typeface>Cardea</typeface>
+		<preview>DavidCabianca_Cardea.png</preview>
+		<specimen>DavidCabianca_Cardea_specimen.pdf</specimen>
+	</designer>
+	
+	<designer>
+		<name>Sally Castle</name>
+		<country>UK</country>
+		<email>castle.studio@virgin.net</email>
+		<web>www.sallycastle.co.uk</web>
+		<typeface>Grover</typeface>
+		<preview>SallyCastle_Grover.png</preview>
+		<specimen>SallyCastle_Grover_specimen.pdf</specimen>
+	</designer>
+	
+	<designer>
+		<name>Patrick Giasson</name>
+		<country>Canada/UK</country>
+		<email>patrick@patrickgiasson.com</email>
+		<web>www.patrickgiasson.com</web>
+		<typeface>Median</typeface>
+		<preview>PatrickGiasson_Median.png</preview>
+		<specimen>PatrickGiasson_Median_specimen.pdf</specimen>
+	</designer>
+	
+	<designer>
+		<name>Wolfgang Homola</name>
+		<country>Austria</country>
+		<email>w.homola@gmx.net</email>
+		<typeface>Pulse</typeface>
+		<preview>WolfgangHomola_Pulse.png</preview>
+		<specimen>WolfgangHomola_Pulse_specimen.pdf</specimen>
+	</designer>
+	
+	<designer>
+		<name>Natasha Raissaki</name>
+		<country>Greece</country>
+		<email>natasha@raissaki.gr</email>
+		<web>www.raissaki.gr</web>
+		<typeface>Elpis</typeface>
+		<preview>NatashaRaissaki_Elpis.png</preview>
+		<specimen>NatashaRaissaki_Elpis_specimen.pdf</specimen>
+	</designer>
+	
+	<designer>
+		<name>Gabriela Varela</name>
+		<country>Mexico</country>
+		<email>varela_g@yahoo.com</email>
+		<typeface>Tlayuda</typeface>
+		<preview>GabrielaVarela_Tlayuda.png</preview>
+		<specimen>GabrielaVarela_Tlayuda_specimen.pdf</specimen>
+	</designer>
+	
+	<designer>
+		<name>Irene Vlachou</name>
+		<country>Greece</country>
+		<email>irene@poptype.com</email>
+		<web>www.poptype.com</web>
+		<typeface>Prisma</typeface>
+		<preview>IreneVlachou_Prisma.png</preview>
+		<specimen>IreneVlachou_Prisma_specimen.pdf</specimen>
+	</designer>
+	
+	<thanks>
+	<p>We are grateful to a lot of people for helping us all have an extraordinary year.</p>
+	<p>We would all like to thank the tutors and staff of the Department of Typography &amp; Graphic Communication, University of Reading, especially
+	Martin Andrews, Gerry Leonidas, James Mosley, Fiona Ross, Michael Twyman, and Gerard Unger.</p>
+	<p>We couldn’t have done it without all our families and friends, either!</p>
+	</thanks>
+</class>
+
+<class year="2003" ready="1">
+	<designer>
+		<name>Eduardo Berliner</name>
+		<country>Brazil</country>
+		<email>eduardoberliner@hotmail.com</email>
+		<typeface>Pollen</typeface>
+		<preview>EduardoBerliner_Pollen.png</preview>
+		<specimen>EduardoBerliner_Pollen_specimen.pdf</specimen>
+	</designer>
+	
+	<designer>
+		<name>Bart Blubaugh</name>
+		<country>USA</country>
+		<email>barton.blu@gmail.com</email>
+		<typeface>Owyhee/Cora</typeface>
+		<preview>BartBlubaugh_OwyheeCora.png</preview>
+		<specimen>BartBlubaugh_OwyheeCora_specimen.pdf</specimen>
+		<vendor name="TypeTogether">www.type-together.com/Cora</vendor>
+	</designer>
+	
+	<designer>
+		<name>Veronika Burian</name>
+		<country>Czechia/Germany</country>
+		<email>vik@type-together.com</email>
+		<web>www.type-together.com</web>
+		<typeface>Maiola</typeface>
+		<preview>VeronikaBurian_Maiola.png</preview>
+		<specimen>VeronikaBurian_Maiola_specimen.pdf</specimen>
+		<vendor name="FontFont">www.fontshop.com/search/?q=Maiola&amp;x=15&amp;y=11</vendor>
+	</designer>
+	
+	<designer>
+		<name>Nadine Chahine</name>
+		<country>Lebanon</country>
+		<email>nchahine00@yahoo.com</email>
+		<web>arabictype.com</web>
+		<typeface>Koufiya</typeface>
+		<preview>NadineChahine_Koufiya.png</preview>
+		<specimen>NadineChahine_Koufiya_specimen.pdf</specimen>
+	</designer>
+	
+	<designer>
+		<name>Thomas Grace</name>
+		<country>USA/Germany</country>
+		<email>hello@virgotype.com</email>
+		<web>www.virgotype.com</web>
+		<typeface>Strela</typeface>
+		<preview>ThomasGrace_Strela.png</preview>
+		<specimen>ThomasGrace_Strela_specimen.pdf</specimen>
+	</designer>
+	
+	<designer>
+		<name>Eva Massoura</name>
+		<country>Greece</country>
+		<email>evamasoura@gmail.com</email>
+		<typeface>Almeida</typeface>
+		<preview>EvaMassoura_Almeida.png</preview>
+		<!-- <specimen></specimen> !! -->
+		<comment>to be added one day</comment>
+	</designer>
+	
+	<designer>
+		<name>Sara Soskolne</name>
+		<country>Canada</country>
+		<email>sara@plumpress.com</email>
+		<typeface>Motet</typeface>
+		<preview>SaraSoskolne_Motet.png</preview>
+		<specimen>SaraSoskolne_Motet_specimen.pdf</specimen>
+	</designer>
+	
+	<designer>
+		<name>Adi Stern</name>
+		<country>Israel</country>
+		<email>adi@adistern.co.il</email>
+		<typeface>Noam</typeface>
+		<preview>AdiStern_Noam.png</preview>
+		<!-- do not publish the specimen -->
+	</designer>
+
+	<thanks>
+	<p>We are all very grateful to a lot of people who helped to make this extraordinary year possible.</p>
+	<p>We would like to thank the tutors and staff of the Department of Typography &amp; Graphic Communication, University of Reading, especially Martin Andrews, Gerry Leonidas, James Mosley, Fiona Ross, Michael Twyman, and Gerard Unger.</p>
+	<p>We couldn’t have done it without all our families and friends, either!</p>
+	</thanks>
+</class>
+
+<class year="2002" ready="0">
+	<designer>
+		<name>Nathalie Dumont</name>
+		<country>Canada</country>
+		<email></email>
+		<web></web>
+		<typeface>Gabrielle</typeface>
+		<preview></preview>
+		<specimen></specimen>
+	</designer>
+
+	<designer>
+		<name>Victor Gaultney</name>
+		<country>USA</country>
+		<email></email>
+		<web></web>
+		<typeface>Gentium</typeface>
+		<preview></preview>
+		<specimen></specimen>
+	</designer>
+	
+	<designer>
+		<name>Michail Semoglou</name>
+		<country>Greece</country>
+		<email></email>
+		<web></web>
+		<typeface>Vergikios</typeface>
+		<preview></preview>
+		<specimen></specimen>
+	</designer>
+	
+	<designer>
+		<name>Keith Tam</name>
+		<country>Hong-Kong</country>
+		<email></email>
+		<web></web>
+		<typeface>Arrival</typeface>
+		<preview></preview>
+		<specimen></specimen>
+	</designer>
+	
+	<designer>
+		<name>Filip Zrantchev</name>
+		<country>Bulgaria</country>
+		<email></email>
+		<web></web>
+		<typeface>Orfei</typeface>
+		<preview></preview>
+		<specimen></specimen>
+	</designer>
+
+	<thanks>
+	<p>We are grateful to a lot of people for helping us all have an extraordinary year.</p>
+	<p>We would all like to thank the tutors and staff of the Department of Typography &amp; Graphic Communication, University of Reading, especially
+	Martin Andrews, Christopher Burke, Gerry Leonidas, James Mosley, Fiona Ross, Michael Twyman, and Gerard Unger.</p>
+	<p>We couldn’t have done it without all our families and friends, either!</p>
+	</thanks>
+</class>
+
+<class year="2001" ready="0">
+	<designer>
+		<name>Conor Mangat</name>
+		<country>UK</country>
+		<email></email>
+		<web></web>
+		<typeface>Protocol</typeface>
+		<preview></preview>
+		<specimen></specimen>
+	</designer>
+
+	<thanks>
+	<p>We are grateful to a lot of people for helping us all have an extraordinary year.</p>
+	<p>We would all like to thank the tutors and staff of the Department of Typography &amp; Graphic Communication, University of Reading, especially
+	Martin Andrews, Christopher Burke, Gerry Leonidas, James Mosley, Fiona Ross, Michael Twyman, and Gerard Unger.</p>
+	<p>We couldn’t have done it without all our families and friends, either!</p>
+	</thanks>
+</class>
+
+<class year="2000" ready="1">
+	<designer>
+		<name>Vincent Connare</name>
+		<country>USA</country>
+		<web>www.connare.com</web>
+		<typeface>Magpie</typeface>
+		<preview>VincentConnare_Magpie.png</preview>
+		<specimen>VincentConnare_Magpie_specimen.pdf</specimen>
+		<vendor name="Dalton Maag">www.daltonmaag.com/browse/fonts/dama/magpie</vendor>
+	</designer>
+
+	<designer>
+		<name>Alejandro Lo Celso</name>
+		<country>Argentina</country>
+		<email>info@pampatype.com</email>
+		<web>www.pampatype.com</web>
+		<typeface>Rayuela</typeface>
+		<preview>AlejandroLoCelso_Rayuela.png</preview>
+		<vendor name="Pampa Type">www.pampatype.com/php/2008/Especimen.php?&amp;pag=pag_E_Rayuela.html</vendor>
+	</designer>
+
+	<thanks>
+	<p>We are grateful to a lot of people for helping us all have an extraordinary year.</p>
+	<p>We would all like to thank the tutors and staff of the Department of Typography &amp; Graphic Communication, University of Reading, especially
+	Martin Andrews, Christopher Burke, Gerry Leonidas, James Mosley, Fiona Ross, Michael Twyman, and Gerard Unger.</p>
+	<p>We couldn’t have done it without all our families and friends, either!</p>
+	</thanks>
+</class>
+</matd>
