@@ -17,8 +17,6 @@
 <!ELEMENT p  (#PCDATA)>
 ]>
 
-<!-- missing RoPs: 2007: Vernon, 2008: Yvonne, Melanie, 2009: Dave -->
-
 <matd>
 	
 <title>MA Typeface Design at the University of Reading</title>
@@ -36,6 +34,36 @@ The typeface used in the headline is Ronnia by <a href="http://www.type-together
 Last update: 6 August 2009 — <a href="http://feeds.feedburner.com/matd/">RSS feed</a>
 </copyright>
 
+<!-- EMPTY YEAR TEMPLATE -->
+<!-- Notes: if you do not want to include specimen, webspecimen, web, rop, vendor, email, just do not include the tag or comment it out. Everything else is obligatory. See previous years for examples of how to fill in the data. Do not use http:// in urls. Include either specimen (name of the PDF on FTP server) or webspecimen (that is link to a website) or none not both at the same time. Preferably specimen of course.
+-->
+
+<!--
+<class year="2009" ready="0">
+	<group-specimen>
+		<specimen>matd10_group_specimen.pdf</specimen>
+		<size>1.4 MB</size>
+	</group-specimen>
+
+    <designer>
+		<name></name>
+		<country></country>
+		<email></email>
+		<web></web>
+		<typeface></typeface>
+		<preview></preview>
+		<specimen></specimen>
+		<rop></rop>
+	</designer>
+	
+	<thanks>
+	<p>We are all very grateful to a lot of people who helped to make this extraordinary year possible.</p>
+	<p>We would like to thank the tutors and staff of the Department of Typography &amp; Graphic Communication, University of Reading, especially Martin Andrews, Gerry Leonidas, James Mosley, Fiona Ross, Michael Twyman, and Gerard Unger.</p>
+	<p>We couldn’t have done it without all our families and friends, either!</p>
+	</thanks>
+
+</year>
+-->
 
 <class year="2009" ready="1">
 	<!--<group-specimen>
@@ -73,7 +101,6 @@ Last update: 6 August 2009 — <a href="http://feeds.feedburner.com/matd/">RSS f
 		<preview>AntonioCavedoni_Enquire.png</preview>
 		<specimen>AntonioCavedoni_Enquire_specimen.pdf</specimen>
 		<rop>AntonioCavedoni_Enquire_RoP.pdf</rop>
-		<comment>updates coming soon</comment>
 	</designer>
 	
 	<designer>
@@ -601,8 +628,8 @@ Last update: 6 August 2009 — <a href="http://feeds.feedburner.com/matd/">RSS f
 	<designer>
 		<name>Titus Nemeth</name>
 		<country>Austria</country>
-		<email>sehstoerung@sonance.net</email>
-		<web>sehstoerung.sonance.net</web>
+		<email>tn@tntypography.com</email>
+		<web>www.tntypography.com</web>
 		<typeface>Nassim</typeface>
 		<preview>TitusNemeth_Nassim.png</preview>
 		<specimen>TitusNemeth_Nassim_specimen.pdf</specimen>
@@ -628,7 +655,7 @@ Last update: 6 August 2009 — <a href="http://feeds.feedburner.com/matd/">RSS f
 		<typeface>Bullen</typeface>
 		<preview>JulietShen_Bullen.png</preview>
 		<specimen>JulietShen_Bullen_specimen.pdf</specimen>
-		<!-- do not share RoP -->
+		<rop>JulietShen_Bullen_RoP.pdf</rop>
 	</designer>
 
 	<designer>

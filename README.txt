@@ -43,7 +43,7 @@ Editing RSS:
 - edit feed.xml manually.
 
 Set default year for the address www.typefacedesign.org:
-- modify the index.php to aim at particular year folder
+- modify the "site/index.php" to aim at particular year folder
 
 Adding a year:
 - add a node in data.xml and set all textual data
@@ -54,4 +54,4 @@ Adding a year:
 - upload all PDFs
 - when everything is ready, set the ready flag to 1 and run the build script
 - double check (also the previous years before uploading)
-- modify the index.php to make it the default year
+- modify the "site/index.php"" to make it the default year

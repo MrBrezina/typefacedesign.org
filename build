@@ -6,7 +6,3 @@ for file in site/200*/index.html; do
 	(echo "<!DOCTYPE html>"; cat $file) > site/dummy.html && mv site/dummy.html $file;
 	perl -i -pe 's/meta http-equiv="Content-Type" content="text\/html; charset=utf-8"/meta charset="utf-8"/' $file;
 done
-
-for dir in site/200*/; do
-	cp site/style.css $dir/style.css
-done
