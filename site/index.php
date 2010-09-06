@@ -1,1 +1,1 @@
-﻿<?php header("Location: http://www.typefacedesign.org/2009/"); ?>
+﻿<?php header("Location: http://www.typefacedesign.org/2010/"); ?>

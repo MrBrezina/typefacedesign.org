@@ -28,10 +28,10 @@ and Graphic Communication</a> website.
 </intro>
 
 <copyright>
-Typeface designs © the respective authors, 2000–2009.<br />
-Website design and production © <a href="http://davi.cz">David Březina</a>, 2007–2009.<br />
+Typeface designs © the respective authors, 2000–2010.<br />
+Website design and production © <a href="http://davi.cz">David Březina</a>, 2007–2010.<br />
 The typeface used in the headline is Ronnia by <a href="http://www.type-together.com/Ronnia">TypeTogether</a>.<br />
-Last update: 15 March 2010 — <a href="http://feeds.feedburner.com/matd/">RSS feed</a>
+Last update: 7 September 2010 — <a href="http://feeds.feedburner.com/matd/">RSS feed</a>
 </copyright>
 
 <!-- EMPTY YEAR TEMPLATE -->
@@ -62,8 +62,174 @@ Last update: 15 March 2010 — <a href="http://feeds.feedburner.com/matd/">RSS f
 	<p>We couldn’t have done it without all our families and friends, either!</p>
 	</thanks>
 
-</year>
+</class>
 -->
+
+<class year="2010" ready="1">
+	<!-- <group-specimen>
+		<specimen>matd10_group_specimen.pdf</specimen>
+		<size>1.4 MB</size>
+	</group-specimen> -->
+
+    <designer>
+		<name>Nicole Fally</name>
+		<country>Austria/Germany</country>
+		<email>nf@t-g-d.at</email>
+		<web>www.t-g-d.at</web>
+		<typeface>Miss Informed</typeface>
+		<preview>NicoleFally_MissInformed.png</preview>
+		<specimen>NicoleFally_MissInformed_specimen.pdf</specimen>
+		<rop>NicoleFally_MissInformed_RoP.pdf</rop>
+	</designer>
+
+    <designer>
+		<name>Riccardo De Franceschi</name>
+		<country>Italy</country>
+		<email>defranceschi@mail.com</email>
+		<typeface>Ginnasio</typeface>
+		<preview>RiccardoDeFranceschi_Ginnasio.png</preview>
+		<specimen>RiccardoDeFranceschi_Ginnasio_specimen.pdf</specimen>
+		<rop>RiccardoDeFranceschi_Ginnasio_RoP.pdf</rop>
+	</designer>
+
+    <designer>
+		<name>Mary Louise Killen</name>
+		<country>USA</country>
+		<email>marylouisekillen@gmail.com</email>
+		<web>www.marylouisekillen.com</web>
+		<typeface>Acadie &amp; Yala</typeface>
+		<preview>MaryLouiseKillen_AcadieYala.png</preview>
+		<specimen>MaryLouiseKillen_AcadieYala_specimen.pdf</specimen>
+		<rop>MaryLouiseKillen_AcadieYala_RoP.pdf</rop>
+	</designer>
+
+    <designer>
+		<name>Neelakash Kshetrimayum</name>
+		<country>India</country>
+		<email>neelakash.k@gmail.com</email>
+		<web>www.neelakash.com</web>
+		<typeface>Frijky</typeface>
+		<preview>NeelakashKshetrimayum_Frijky.png</preview>
+		<specimen>NeelakashKshetrimayum_Frijky_specimen.pdf</specimen>
+		<!-- <rop>NeelakashKshetrimayum_Frijky_RoP.pdf</rop> !! no share at the moment -->
+	</designer>
+
+    <designer>
+		<name>Karolina Lach</name>
+		<country>Poland/USA</country>
+		<email>karolina.lach@gmail.com</email>
+		<web>www.thekarolina.com</web>
+		<typeface>Sora</typeface>
+		<preview>KarolinaLach_Sora.png</preview>
+		<specimen>KarolinaLach_Sora_specimen.pdf</specimen>
+		<!-- <rop>KarolinaLach_Sora_RoP.pdf</rop> !! no share at the moment -->
+	</designer>
+	
+	<designer>
+		<name>Erin McLaughlin</name>
+		<country>USA</country>
+		<email>hello@erinmclaughlin.com</email>
+		<web>www.erinmclaughlin.com</web>
+		<typeface>Katari</typeface>
+		<preview>ErinMcLaughlin_Katari.png</preview>
+		<specimen>ErinMcLaughlin_Katari_specimen.pdf</specimen>
+		<rop>ErinMcLaughlin_Katari_RoP.pdf</rop>
+	</designer>
+
+    <designer>
+		<name>Marian Misiak</name>
+		<country>Poland/Czechia</country>
+		<email>jaduone@o2.pl</email>
+		<web>www.berszmisiak.com</web>
+		<typeface>Timeline</typeface>
+		<preview>MarianMisiak_Timeline.png</preview>
+		<specimen>MarianMisiak_Timeline_specimen.pdf</specimen>
+		<!-- do not share RoP -->
+	</designer>
+
+    <designer>
+		<name>Aoife Mooney</name>
+		<country>Ireland</country>
+		<email>aoifemooney@gmail.com</email>
+		<web>www.mooted.org</web>
+		<typeface>Magnimo</typeface>
+		<preview>AoifeMooney_Magnimo.png</preview>
+		<specimen>AoifeMooney_Magnimo_specimen.pdf</specimen>
+		<rop>AoifeMooney_Magnimo_RoP.pdf</rop>
+	</designer>
+
+    <designer>
+		<name>Octavio Pardo</name>
+		<country>Spain</country>
+		<email>octaviopardo@gmail.com</email>
+		<typeface>Cabriole</typeface>
+		<preview>OctavioPardo_Cabriole.png</preview>
+		<specimen>OctavioPardo_Cabriole_specimen.pdf</specimen>
+		<!-- do not share RoP -->
+	</designer>
+
+    <designer>
+		<name>Steve Ross</name>
+		<country>Canada</country>
+		<email>steve@steveross.ca</email>
+		<web>www.steveross.ca</web>
+		<typeface>Yukatek</typeface>
+		<preview>SteveRoss_Yukatek.png</preview>
+		<specimen>SteveRoss_Yukatek_specimen.pdf</specimen>
+		<rop>SteveRoss_Yukatek_RoP.pdf</rop>
+	</designer>
+
+    <designer>
+		<name>Zachary Quinn Scheuren</name>
+		<country>USA</country>
+		<email>zarijoscha@gmail.com</email>
+		<web>www.punchcutter.com</web>
+		<typeface>Souriya Chrieng &amp; Luqule</typeface>
+		<preview>ZacharyScheuren_SouriyaChriengLuqule.png</preview>
+		<specimen>ZacharyScheuren_SouriyaChriengLuqule_specimen.pdf</specimen>
+		<!-- do not share RoP -->
+	</designer>
+
+    <designer>
+		<name>Sarah Schumacher</name>
+		<country>USA</country>
+		<email>info@sarahschumacher.com</email>
+		<web>www.sarahschumacher.com</web>
+		<typeface>Rhodora &amp; Eskesta</typeface>
+		<preview>SarahSchumacher_RhodoraEskesta.png</preview>
+		<specimen>SarahSchumacher_RhodoraEskesta_specimen.pdf</specimen>
+		<!-- do not share RoP -->
+	</designer>
+
+    <designer>
+		<name>Gunnar Vilhjalmsson</name>
+		<country>Iceland</country>
+		<email>mail@gunnarvilhjalmsson.net</email>
+		<web>gunnarvilhjalmsson.net</web>
+		<typeface>Germain</typeface>
+		<preview>GunnarVilhjalmsson_Germain.png</preview>
+		<specimen>GunnarVilhjalmsson_Germain_specimen.pdf</specimen>
+		<!-- do not share RoP -->
+	</designer>
+
+    <designer>
+		<name>Marc Weymann</name>
+		<country>Liechtenstein/Switzerland</country>
+		<email>info@marcweymann.com</email>
+		<web>www.marcweymann.com</web>
+		<typeface>Formal</typeface>
+		<preview>MarcWeymann_Formal.png</preview>
+		<specimen>MarcWeymann_Formal_specimen.pdf</specimen>
+		<!-- <rop>MarcWeymann_Formal_RoP.pdf</rop> !! to be update later -->
+	</designer>
+
+	<thanks>
+	<p>We are all very grateful to a lot of people who helped to make this extraordinary year possible.</p>
+	<p>We would like to thank the tutors and staff of the Department of Typography &amp; Graphic Communication, University of Reading, especially Martin Andrews, Gerry Leonidas, James Mosley, Fiona Ross, Michael Twyman, and Gerard Unger.</p>
+	<p>We couldn’t have done it without all our families and friends, either!</p>
+	</thanks>
+
+</class>
 
 <class year="2009" ready="1">
 	<!--<group-specimen>
@@ -197,6 +363,7 @@ Last update: 15 March 2010 — <a href="http://feeds.feedburner.com/matd/">RSS f
 		<typeface>Anglaise</typeface>
 		<preview>AnetteSchmidt_Anglaise.png</preview>
 		<specimen>AnetteSchmidt_Anglaise_specimen.pdf</specimen>
+		<vendor name="Ladyfingers">new.myfonts.com/fonts/ladyfingers/anglaise/</vendor>
 		<rop>AnetteSchmidt_Anglaise_RoP.pdf</rop>
 	</designer>
 
