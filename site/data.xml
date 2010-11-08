@@ -86,6 +86,7 @@ Last update: 7 September 2010 — <a href="http://feeds.feedburner.com/matd/">RS
 		<name>Riccardo De Franceschi</name>
 		<country>Italy</country>
 		<email>defranceschi@mail.com</email>
+		<web>www.rdftype.it/</web>
 		<typeface>Ginnasio</typeface>
 		<preview>RiccardoDeFranceschi_Ginnasio.png</preview>
 		<specimen>RiccardoDeFranceschi_Ginnasio_specimen.pdf</specimen>
@@ -611,6 +612,7 @@ Last update: 7 September 2010 — <a href="http://feeds.feedburner.com/matd/">RS
 		<typeface>Actium</typeface>
 		<preview>GerbenDollen_Actium.png</preview>
 		<specimen>GerbenDollen_Actium_specimen.pdf</specimen>
+		<vendor name="MyFonts">new.myfonts.com/fonts/dolwork/actium/</vendor>
 		<rop>GerbenDollen_Actium_RoP.pdf</rop>
 	</designer>
 	
@@ -760,16 +762,13 @@ Last update: 7 September 2010 — <a href="http://feeds.feedburner.com/matd/">RS
 		<rop>SaraChapman_Chatsworth_RoP.pdf</rop>
 	</designer>
 	
-	<!-- <designer>
+	<designer>
 		<name>Will Hill</name>
 		<country>UK</country>
-		<email></email>
-		<web></web>
-		<typeface></typeface>
-		<preview>WillHill_</preview>
-		<specimen>WillHill_</specimen>
-		<rop>WillHill_RoP.pdf</rop>
-	</designer> !! -->
+		<email>will.hill@anglia.ac.uk</email>
+		<typeface>Methodius</typeface>
+		<preview>WillHill_Methodius.png</preview>
+	</designer>
 	
 	<designer>
 		<name>Jérémie Hornus</name>
@@ -1081,55 +1080,51 @@ Last update: 7 September 2010 — <a href="http://feeds.feedburner.com/matd/">RS
 	</thanks>
 </class>
 
-<class year="2002" ready="0">
+<class year="2002" ready="1">
 	<designer>
 		<name>Nathalie Dumont</name>
 		<country>Canada</country>
-		<email></email>
-		<web></web>
+		<web>http://ca.linkedin.com/pub/nathalie-dumont/10/9a0/808</web>
 		<typeface>Gabrielle</typeface>
-		<preview></preview>
-		<specimen></specimen>
+		<preview>NathalieDumont_Gabrielle.png</preview>
 	</designer>
 
 	<designer>
 		<name>Victor Gaultney</name>
-		<country>USA</country>
-		<email></email>
-		<web></web>
+		<country>USA/UK</country>
+		<email>victor_gaultney@sil.org</email>
+		<web>www.sil.org/~gaultney</web>
 		<typeface>Gentium</typeface>
-		<preview></preview>
-		<specimen></specimen>
+		<vendor name="SIL">scripts.sil.org/cms/scripts/page.php?&amp;cat_id=FontDownloadsGentium</vendor>
+		<preview>VictorGaultney_Gentium.png</preview>
+		<specimen>VictorGaultney_Gentium_specimen.pdf</specimen>
 	</designer>
 	
 	<designer>
 		<name>Michail Semoglou</name>
 		<country>Greece</country>
-		<email></email>
-		<web></web>
+		<email>info@cannotnot.net</email>
+		<web>www.cannotnot.net</web>
 		<typeface>Vergikios</typeface>
-		<preview></preview>
-		<specimen></specimen>
+		<preview>MichailSemoglou_Vergikios.png</preview>
 	</designer>
 	
 	<designer>
-		<name>Keith Tam</name>
-		<country>Hong-Kong</country>
-		<email></email>
-		<web></web>
+		<name>Keith Chi-Hang Tam</name>
+		<country>Canada/UK/Hong-Kong</country>
+		<email>keith@keithtam.net</email>
+		<web>keithtam.net</web>
 		<typeface>Arrival</typeface>
-		<preview></preview>
-		<specimen></specimen>
+		<preview>KeithChi-HangTam_Arrival.png</preview>
+		<specimen>KeithChi-HangTam_Arrival_specimen.pdf</specimen>
+		<vendor name="Village">vllg.com/Incubator/Arrival</vendor>
 	</designer>
 	
 	<designer>
 		<name>Filip Zrantchev</name>
 		<country>Bulgaria</country>
-		<email></email>
-		<web></web>
 		<typeface>Orfei</typeface>
-		<preview></preview>
-		<specimen></specimen>
+		<preview>FilipZrantchev_Orfei.png</preview>
 	</designer>
 
 	<thanks>
@@ -1140,15 +1135,12 @@ Last update: 7 September 2010 — <a href="http://feeds.feedburner.com/matd/">RS
 	</thanks>
 </class>
 
-<class year="2001" ready="0">
+<class year="2001" ready="1">
 	<designer>
 		<name>Conor Mangat</name>
 		<country>UK</country>
-		<email></email>
-		<web></web>
 		<typeface>Protocol</typeface>
-		<preview></preview>
-		<specimen></specimen>
+		<preview>ConorMangat_Protocol.png</preview>
 	</designer>
 
 	<thanks>
