@@ -11,11 +11,11 @@
 }
 
 .class2010 div#RSS, div#RSS a {
-	background: #a23337 url(2010/img/RSS_hover.png) 0 0 no-repeat;
+	background: #682515 url(2010/img/RSS_hover.png) 0 0 no-repeat;
 }
 
 .class2010 div#RSS a {
-	background: #a33b23 url(2010/img/RSS.png) 0 0 no-repeat;
+	background: #682515 url(2010/img/RSS.png) 0 0 no-repeat;
 }
 
 .class2010 div.intro h2 { background: #FEFCF4 url(2010/img/work-title.png) 0 0 no-repeat; }
@@ -234,63 +234,63 @@
 }
 
 /* 2002 */
-/*
+
 .class2002 div#top {
-	background: #cf1565 url(2002/img/top_bground.png);
+	background: #1F426F url(2002/img/top_bground.png);
 }
 
 .class2002 div#top h1 {
-	background: #cf1565 url(2002/img/top_title.png) 0 0 no-repeat;
+	background: #1F426F url(2002/img/top_title.png) 0 0 no-repeat;
 }
 
 .class2002 div#RSS, div#RSS a {
-	background: #840d3d url(2002/img/RSS_hover.png) 0 0 no-repeat;
+	background: #142943 url(2002/img/RSS_hover.png) 0 0 no-repeat;
 }
 
 .class2002 div#RSS a {
-	background: #840d3d url(2002/img/RSS.png) 0 0 no-repeat;
+	background: #142943 url(2002/img/RSS.png) 0 0 no-repeat;
 }
 
 .class2002 div.intro h2 { background: #FEFCF4 url(2002/img/work-title.png) 0 0 no-repeat; }
 
 .class2002 a {
-	color: #cf1565;
+	color: #4C678A;
 	text-decoration: none;
 }
 
 .class2002 a:hover {
-	border-bottom: 1px solid #cf4b84;
+	border-bottom: 1px solid #4C678A;
 }
-*/
+
 /* 2001 */
-/*
+
 .class2001 div#top {
-	background: #cf1565 url(2001/img/top_bground.png);
+	background: #6f6f6f url(2001/img/top_bground.png);
 }
 
 .class2001 div#top h1 {
-	background: #cf1565 url(2001/img/top_title.png) 0 0 no-repeat;
+	background: #6f6f6f url(2001/img/top_title.png) 0 0 no-repeat;
 }
 
 .class2001 div#RSS, div#RSS a {
-	background: #840d3d url(2001/img/RSS_hover.png) 0 0 no-repeat;
+	background: #474643 url(2001/img/RSS_hover.png) 0 0 no-repeat;
 }
 
 .class2001 div#RSS a {
-	background: #840d3d url(2001/img/RSS.png) 0 0 no-repeat;
+	background: #474643 url(2001/img/RSS.png) 0 0 no-repeat;
 }
 
 .class2001 div.intro h2 { background: #FEFCF4 url(2001/img/work-title.png) 0 0 no-repeat; }
 
 .class2001 a {
-	color: #cf1565;
+	color: #6f6f6f;
 	text-decoration: none;
 }
 
 .class2001 a:hover {
-	border-bottom: 1px solid #cf4b84;
+	border-bottom: 1px solid #6f6f6f;
 }
-*/
+
 /* 2000 */
 
 .class2000 div#top {
