@@ -6,9 +6,23 @@
 	<atom:link href="http://www.typefacedesign.org/feed.xml" rel="self" type="application/rss+xml" />
 	<description>
 		Work from the MA Typeface Design at the University of Reading
-	</description>    
-	<pubDate>Tue, 07 Sep 2010 12:00:00 GMT</pubDate>
+	</description>
+	<pubDate>Wed, 01 Dec 2010 12:00:00 GMT</pubDate>
 	<language>en</language>
+	<item>
+		<title>Six (!) release updates</title>
+		<description>
+		    Nicolien van der Keur (2007) published her typeface Sirba with TypeTogether, see: http://type-together.com/Sirba
+		    Tim Ahrens (2007) released his typeface Herb with his own Just Another Foundry, see: http://justanotherfoundry.com/herb
+		    Gerben Dollen (2007) released his typeface Actium with his own type foundry Type Mafia, see: http://new.myfonts.com/fonts/typemafia/actium/
+		    Valentin Brustaux (2007) released his typeface Tiina with OurType: http://ourtype.com
+		    Alice Savoie (2007) released her typeface Capucine with Process Type Foundry: http://processtypefoundry.com/fonts/capucine/
+			Émilie Rigaud (2009) set up her own foundry “A is for Apple” at http://www.aisforapple.eu which also distributes her Coline.
+		</description>
+		<link>http://www.typefacedesign.org/</link>
+		<guid isPermaLink="true">http://www.typefacedesign.org/</guid>
+		<pubDate>Wed, 01 Dec 2010 12:00:00 GMT</pubDate>
+	</item>
 	<item>
 		<title>Work from the 2010 class is now online</title>
 		<description>

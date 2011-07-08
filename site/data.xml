@@ -163,6 +163,7 @@ Last update: 7 September 2010 — <a href="http://feeds.feedburner.com/matd/">RS
 		<name>Octavio Pardo</name>
 		<country>Spain</country>
 		<email>octaviopardo@gmail.com</email>
+		<web>www.oandcompany.es</web>
 		<typeface>Cabriole</typeface>
 		<preview>OctavioPardo_Cabriole.png</preview>
 		<specimen>OctavioPardo_Cabriole_specimen.pdf</specimen>
@@ -354,6 +355,7 @@ Last update: 7 September 2010 — <a href="http://feeds.feedburner.com/matd/">RS
 		<typeface>Coline</typeface>
 		<preview>EmilieRigaud_Coline.png</preview>
 		<specimen>EmilieRigaud_Coline_specimen.pdf</specimen>
+		<vendor name="A is for Apple">www.aisforapple.eu</vendor>
 		<rop>EmilieRigaud_Coline_RoP.pdf</rop>
 	</designer>
 
@@ -577,7 +579,7 @@ Last update: 7 September 2010 — <a href="http://feeds.feedburner.com/matd/">RS
 		<web>justanotherfoundry.com</web>
 		<typeface>Herb</typeface>
 		<preview>TimAhrens_Herb.png</preview>
-		<webspecimen>justanotherfoundry.com/Herb/</webspecimen>
+		<vendor name="Just Another Foundry">justanotherfoundry.com/herb</vendor>
 		<rop>TimAhrens_Herb_RoP.pdf</rop>
 	</designer>
 
@@ -596,11 +598,11 @@ Last update: 7 September 2010 — <a href="http://feeds.feedburner.com/matd/">RS
 	<designer>
 		<name>Valentin Brustaux</name>
 		<country>Switzerland</country>
-		<email>valentin@regular.li</email>
 		<web>regular.li</web>
 		<typeface>Tiina</typeface>
 		<preview>ValentinBrustaux_Tiina.png</preview>
-		<webspecimen>regular.li</webspecimen>
+		<vendor name="OurType">ourtype.com</vendor>
+		
 		<!-- do not share RoP -->
 	</designer>
 
@@ -656,6 +658,7 @@ Last update: 7 September 2010 — <a href="http://feeds.feedburner.com/matd/">RS
 		<typeface>Sirba</typeface>
 		<preview>NicolienvanderKeur_Sirba.png</preview>
 		<specimen>NicolienvanderKeur_Sirba_specimen.pdf</specimen>
+		<vendor name="Type Together">type-together.com/Sirba</vendor>
 		<rop>NicolienvanderKeur_Sirba_RoP.pdf</rop>
 	</designer>
 	
@@ -689,6 +692,7 @@ Last update: 7 September 2010 — <a href="http://feeds.feedburner.com/matd/">RS
 		<typeface>Capucine</typeface>
 		<preview>AliceSavoie_Capucine.png</preview>
 		<specimen>AliceSavoie_Capucine_specimen.pdf</specimen>
+		<vendor name="Process Type Foundry">processtypefoundry.com/fonts/capucine/</vendor>
 		<rop>AliceSavoie_Capucine_RoP.pdf</rop>
 	</designer>
 	
