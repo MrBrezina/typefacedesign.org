@@ -2,7 +2,7 @@
 xsltproc -o site/dummy.xml site/style.xsl site/data.xml
 rm site/dummy.xml
 
-for file in site/200*/index.html; do
+for file in site/20*/index.html; do
 	(echo "<!DOCTYPE html>"; cat $file) > site/dummy.html && mv site/dummy.html $file;
 	perl -i -pe 's/meta http-equiv="Content-Type" content="text\/html; charset=utf-8"/meta charset="utf-8"/' $file;
 done
