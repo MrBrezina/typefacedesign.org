@@ -1,6 +1,36 @@
 ﻿/* YEAR DEPENDENT */
 
+/* 2011 */
+
+.class2011 div#top {
+	background: #006699 url(2011/img/top_bground.png);
+}
+
+.class2011 div#top h1 {
+	background: #006699 url(2011/img/top_title.png) 0 0 no-repeat;
+}
+
+.class2011 div#RSS, div#RSS a {
+	background: #00405d url(2011/img/RSS_hover.png) 0 0 no-repeat;
+}
+
+.class2011 div#RSS a {
+	background: #00405d url(2011/img/RSS.png) 0 0 no-repeat;
+}
+
+.class2011 div.intro h2 { background: #FEFCF4 url(2011/img/work-title.png) 0 0 no-repeat; }
+
+.class2011 a {
+	color: #006699;
+	text-decoration: none;
+}
+
+.class2011 a:hover {
+	border-bottom: 1px solid #006699;
+}
+
 /* 2010 */
+
 
 .class2010 div#top {
 	background: #a33b23 url(2010/img/top_bground.png);

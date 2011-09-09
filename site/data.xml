@@ -65,6 +65,244 @@ Last update: 7 September 2010 — <a href="http://feeds.feedburner.com/matd/">RS
 </class>
 -->
 
+<class year="2011" ready="1">
+	<group-specimen>
+		<specimen>matd11_group_specimen.pdf</specimen>
+		<size>1.7 MB</size>
+	</group-specimen>
+
+    <designer>
+		<name>Pria Adireddi</name>
+		<country>India</country>
+<!-- 
+		<email></email>
+		<web></web>
+ -->
+		<typeface>Tranquebar</typeface>
+		<preview>PriaAdireddi_Tranquebar.png</preview>
+<!-- 
+		<specimen></specimen>
+		<rop></rop>
+ -->
+	</designer>
+
+    <designer>
+		<name>Luisa Baeta</name>
+		<country>Brazil / Portugal</country>
+		<email>luisabaeta@gmail.com</email>
+		<web>www.luisabaeta.com</web>
+		<typeface>Arlecchino</typeface>
+		<preview>LuisaBaeta_Arlecchino.png</preview>
+		<specimen>LuisaBaeta_Arlecchino_specimen.pdf</specimen>
+<!-- 
+		<rop></rop>
+ -->
+	</designer>
+
+    <designer>
+		<name>Aaron Bell</name>
+		<country>USA</country>
+		<email>hi@aaronb.net</email>
+		<web>aaronb.net</web>
+		<typeface>Saja</typeface>
+		<preview>aaronbell_saja.png</preview>
+		<specimen>AaronBell_Saja_specimen.pdf</specimen>
+<!-- 
+		<rop></rop>
+ -->
+	</designer>
+
+    <designer>
+		<name>Bianca Berning</name>
+		<country>Germany</country>
+		<email>clint@biancaberning.co.uk</email>
+		<web>biancaberning.co.uk</web>
+		<typeface>Clint</typeface>
+		<preview>BiancaBerning_Clint.png</preview>
+		<specimen>BiancaBerning_Clint_specimen.pdf</specimen>
+<!-- 
+		<rop></rop>
+ -->
+	</designer>
+
+    <designer>
+		<name>Eleni Beveratou</name>
+		<country>Greece</country>
+		<email>eleni@beveratos.com</email>
+		<web>www.elenibeveratou.com</web>
+		<typeface>Intone</typeface>
+		<preview>EleniBeveratou_intone.png</preview>
+		<specimen>EleniBeveratou_Intone_specimen.pdf</specimen>
+<!-- 
+		<rop></rop>
+ -->
+	</designer>
+
+    <designer>
+		<name>Marion Delsuc</name>
+		<country>France</country>
+		<email>marion.delsuc@gmail.com</email>
+		<!-- 		<web></web> -->
+		<typeface>Cassiope</typeface>
+		<preview>MarionDelsuc_Cassiope.png</preview>
+		<specimen>MarionDelsuc_Cassiope_specimen.pdf</specimen>
+<!-- 
+		<rop></rop>
+ -->
+	</designer>
+
+    <designer>
+		<name>Hanna Donker</name>
+		<country>Netherlands</country>
+		<email>info@hannadonker.nl</email>
+		<web>www.hannadonker.nl</web>
+		<typeface>Foxhill</typeface>
+		<preview>HannaDonker_Foxhill.png</preview>
+		<specimen>HannaDonker_Foxhill_specimen.pdf</specimen>
+<!-- 
+		<rop></rop>
+ -->
+	</designer>
+
+    <designer>
+		<name>Ben Jones</name>
+		<country>United Kingdom</country>
+		<email>benjones@protimient.com</email>
+		<web>www.protimient.com</web>
+		<typeface>Emrys</typeface>
+		<preview>BenJones_Emrys.png</preview>
+		<specimen>BenJones_Emrys_specimen.pdf</specimen>
+<!-- 
+		<rop></rop>
+ -->
+	</designer>
+	
+    <designer>
+		<name>Rob McKaughan</name>
+		<country>USA</country>
+		<email>matd@robmck.com</email>
+		<web>robmck.com</web>
+		<typeface>Chepman</typeface>
+		<preview>RobMcKaughan_Chepman.png</preview>
+		<specimen>RobMcKaughan_Chepman_specimen.pdf</specimen>
+<!-- 
+		<rop></rop>
+ -->
+	</designer>
+
+    <designer>
+		<name>Ferran Milan</name>
+		<country>Catalonia, Spain</country>
+		<email>polytonic3@gmail.com</email>
+		<!-- 	<web></web> -->
+		<typeface>Bubblegum</typeface>
+		<preview>FerranMilan_Bubblegum.png</preview>
+		<specimen>FerranMilan _Bubblegum_Specimen.pdf</specimen>
+<!-- 
+		<rop></rop>
+ -->
+	</designer>
+
+    <designer>
+		<name>Julián Moncada</name>
+		<country>Colombia</country>
+		<email>jmoncada86@yahoo.com</email>
+		<!-- 		<web></web> -->
+		<typeface>Lemona</typeface>
+		<preview>JulianMoncada_Lemona.png</preview>
+		<specimen>JulianMoncada_Lemona_specimen.pdf</specimen>
+<!-- 
+		<rop></rop>
+ -->
+	</designer>
+
+    <designer>
+		<name>Toshi Omagari</name>
+		<country>Japan</country>
+		<email>tosche@mac.com</email>
+		<!-- 		<web></web> -->
+		<typeface>Marco</typeface>
+		<preview>ToshiOmagari_Marco.png</preview>
+		<specimen>ToshiOmagari_Marco_Specimen.pdf</specimen>
+<!-- 
+		<rop></rop>
+ -->
+	</designer>
+
+    <designer>
+		<name>Blondina Elms Pastel</name>
+		<country>Barbados</country>
+		<email>blondina@atelierelms.com</email>
+		<web>www.atelierelms.com</web>
+		<typeface>Naej</typeface>
+		<preview>BlondinaElmsPastel_Naej.png</preview>
+		<specimen>BlondinaElmsPastel_Naej_specimen.pdf</specimen>
+<!-- 
+		<rop></rop>
+ -->
+	</designer>
+
+    <designer>
+		<name>Elena Schneider</name>
+		<country>Germany</country>
+		<email>hello@elefont.de</email>
+		<web>www.elefont.de</web>
+		<typeface>Eskorte</typeface>
+		<preview>ElenaSchneider_Eskorte.png</preview>
+		<specimen>ElenaSchneider_Eskorte_specimen.pdf</specimen>
+<!-- 
+		<rop></rop>
+ -->
+	</designer>
+
+    <designer>
+		<name>Joana Correia da Silva</name>
+		<country>Portugal</country>
+		<email>joanamcsilva@gmail.com</email>
+		<web>www.joanamcorreia.com</web>
+		<typeface>Artigo</typeface>
+		<preview>JoanaCorreia_Artigo.png</preview>
+		<specimen>JoanaCorreia_Artigo_specimen.pdf</specimen>
+<!-- 
+		<rop></rop>
+ -->
+	</designer>
+
+    <designer>
+		<name>Vaibhav Singh</name>
+		<country>India</country>
+		<email>errorsinc@gmail.com</email>
+		<!-- 		<web></web> -->
+		<typeface>Eczar</typeface>
+		<preview>VaibhavSingh_Eczar.png</preview>
+		<specimen>VaibhavSingh_Eczar_specimen.pdf</specimen>
+<!-- 
+		<rop></rop>
+ -->
+	</designer>
+
+    <designer>
+		<name>Adrien Vasquez</name>
+		<country>France</country>
+		<email>blackhole@adrienvasquez.co.uk</email>
+		<web>www.adrienvasquez.co.uk</web>
+		<typeface>Modern 7</typeface>
+		<preview>AdrienVasquez_Modern7.png</preview>
+		<specimen>AdrienVasquez_Modern7_specimen.pdf</specimen>
+<!-- 
+		<rop></rop>
+ -->
+	</designer>
+
+	<thanks>
+	<p>We are all very grateful to a lot of people who helped to make this extraordinary year possible.</p>
+	<p>We would like to thank the tutors and staff of the Department of Typography &amp; Graphic Communication, University of Reading, especially Martin Andrews, Gerry Leonidas, James Mosley, Fiona Ross, Michael Twyman, and Gerard Unger.</p>
+	<p>We couldn’t have done it without all our families and friends, either!</p>
+	</thanks>
+
+</class>
+
+
 <class year="2010" ready="1">
 	<!-- <group-specimen>
 		<specimen>matd10_group_specimen.pdf</specimen>
