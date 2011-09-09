@@ -1,0 +1,5 @@
+Name, Surname:
+Nationality:
+Email address:
+Personal web address (your studio, foundry etc.):
+Name of your typeface:
