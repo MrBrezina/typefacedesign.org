@@ -74,16 +74,12 @@ Last update: 7 September 2010 — <a href="http://feeds.feedburner.com/matd/">RS
     <designer>
 		<name>Pria Adireddi</name>
 		<country>India</country>
-<!-- 
-		<email></email>
-		<web></web>
- -->
-		<typeface>Tranquebar</typeface>
-		<preview>PriaAdireddi_Tranquebar.png</preview>
-<!-- 
-		<specimen></specimen>
-		<rop></rop>
- -->
+		<email>pria.adireddi@gmail.com</email>
+		<!-- <web></web> -->
+		<typeface>the Herald</typeface>
+		<preview>PriaAdireddi_theHerald.png</preview>
+		<specimen>PriaAdireddi_theHerald_specimen.pdf</specimen>
+		<rop>PriaAdireddi_theHerald_ROP.pdf</rop>
 	</designer>
 
     <designer>
@@ -94,9 +90,7 @@ Last update: 7 September 2010 — <a href="http://feeds.feedburner.com/matd/">RS
 		<typeface>Arlecchino</typeface>
 		<preview>LuisaBaeta_Arlecchino.png</preview>
 		<specimen>LuisaBaeta_Arlecchino_specimen.pdf</specimen>
-<!-- 
-		<rop></rop>
- -->
+		<rop>LuisaBaeta_Arlecchino_RoP.pdf</rop>
 	</designer>
 
     <designer>
@@ -107,9 +101,7 @@ Last update: 7 September 2010 — <a href="http://feeds.feedburner.com/matd/">RS
 		<typeface>Saja</typeface>
 		<preview>aaronbell_saja.png</preview>
 		<specimen>AaronBell_Saja_specimen.pdf</specimen>
-<!-- 
-		<rop></rop>
- -->
+		<rop>AaronBell_Saja_ROP.pdf</rop>
 	</designer>
 
     <designer>
@@ -133,9 +125,7 @@ Last update: 7 September 2010 — <a href="http://feeds.feedburner.com/matd/">RS
 		<typeface>Intone</typeface>
 		<preview>EleniBeveratou_intone.png</preview>
 		<specimen>EleniBeveratou_Intone_specimen.pdf</specimen>
-<!-- 
-		<rop></rop>
- -->
+		<rop>EleniBeveratou_Intone_RoP.pdf</rop>
 	</designer>
 
     <designer>
@@ -146,9 +136,7 @@ Last update: 7 September 2010 — <a href="http://feeds.feedburner.com/matd/">RS
 		<typeface>Cassiope</typeface>
 		<preview>MarionDelsuc_Cassiope.png</preview>
 		<specimen>MarionDelsuc_Cassiope_specimen.pdf</specimen>
-<!-- 
-		<rop></rop>
- -->
+		<rop>MarionDelsuc_Cassiope_ROP.pdf</rop>
 	</designer>
 
     <designer>
@@ -159,9 +147,7 @@ Last update: 7 September 2010 — <a href="http://feeds.feedburner.com/matd/">RS
 		<typeface>Foxhill</typeface>
 		<preview>HannaDonker_Foxhill.png</preview>
 		<specimen>HannaDonker_Foxhill_specimen.pdf</specimen>
-<!-- 
-		<rop></rop>
- -->
+		<rop>HannaDonker_Foxhill_RoP.pdf</rop>
 	</designer>
 
     <designer>
@@ -172,9 +158,7 @@ Last update: 7 September 2010 — <a href="http://feeds.feedburner.com/matd/">RS
 		<typeface>Emrys</typeface>
 		<preview>BenJones_Emrys.png</preview>
 		<specimen>BenJones_Emrys_specimen.pdf</specimen>
-<!-- 
-		<rop></rop>
- -->
+		<rop>BenJones_Emrys_RoP.pdf</rop>
 	</designer>
 	
     <designer>
@@ -185,9 +169,7 @@ Last update: 7 September 2010 — <a href="http://feeds.feedburner.com/matd/">RS
 		<typeface>Chepman</typeface>
 		<preview>RobMcKaughan_Chepman.png</preview>
 		<specimen>RobMcKaughan_Chepman_specimen.pdf</specimen>
-<!-- 
-		<rop></rop>
- -->
+		<rop>RobMcKaughan_Chepman_RoP.pdf</rop>
 	</designer>
 
     <designer>
@@ -198,9 +180,7 @@ Last update: 7 September 2010 — <a href="http://feeds.feedburner.com/matd/">RS
 		<typeface>Bubblegum</typeface>
 		<preview>FerranMilan_Bubblegum.png</preview>
 		<specimen>FerranMilan _Bubblegum_Specimen.pdf</specimen>
-<!-- 
-		<rop></rop>
- -->
+		<rop>FerranMilan_Bubblegum_RoP.pdf</rop>
 	</designer>
 
     <designer>
@@ -224,9 +204,7 @@ Last update: 7 September 2010 — <a href="http://feeds.feedburner.com/matd/">RS
 		<typeface>Marco</typeface>
 		<preview>ToshiOmagari_Marco.png</preview>
 		<specimen>ToshiOmagari_Marco_Specimen.pdf</specimen>
-<!-- 
-		<rop></rop>
- -->
+		<rop>Toshi_Omagari_Marco_RoP.pdf</rop>
 	</designer>
 
     <designer>
@@ -263,9 +241,7 @@ Last update: 7 September 2010 — <a href="http://feeds.feedburner.com/matd/">RS
 		<typeface>Artigo</typeface>
 		<preview>JoanaCorreia_Artigo.png</preview>
 		<specimen>JoanaCorreia_Artigo_specimen.pdf</specimen>
-<!-- 
-		<rop></rop>
- -->
+		<rop>JoanaSilva_Artigo_RoP.pdf</rop>
 	</designer>
 
     <designer>
